@@ -3,7 +3,7 @@
 ### Aspiring Data Analyst | Turning Data into Insights
 
 I'm an aspiring Data Analyst focused on using data to understand
-business problems, identify patterns, and generate actionable insights.
+business problems, identify patterns and generate actionable insights.
 
 I enjoy working with real-world datasets and building practical
 projects using Excel, SQL, Power BI and Python.
